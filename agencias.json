@@ -1,0 +1,44 @@
+[
+  {
+      "id": 1,
+      "nombre": "NASA",
+      "pais": "Estados Unidos",
+      "anioFundacion": 1958,
+      "email": "contacto@nasa.example"
+  },
+  {
+      "id": 2,
+      "nombre": "ESA",
+      "pais": "Multinacional (Europa)",
+      "anioFundacion": 1975,
+      "email": "contacto@esa.example"
+  },
+  {
+      "id": 3,
+      "nombre": "CONAE",
+      "pais": "Argentina",
+      "anioFundacion": 1991,
+      "email": "contacto@conae.example"
+  },
+  {
+      "id": 4,
+      "nombre": "JAXA",
+      "pais": "Japon",
+      "anioFundacion": 2003,
+      "email": "contacto@jaxa.example"
+  },
+  {
+      "id": 5,
+      "nombre": "Roscosmos",
+      "pais": "Rusia",
+      "anioFundacion": 1992,
+      "email": "contacto@roscosmos.example"
+  },
+  {
+      "id": 6,
+      "nombre": "ISRO",
+      "pais": "India",
+      "anioFundacion": 1969,
+      "email": "contacto@isro.example"
+  }
+]
